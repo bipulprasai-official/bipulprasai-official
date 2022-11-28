@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bipul Prasai</h1>
-<h3 align="center">A passionate frontend developer from Sydney,Australia</h3>
+<h3 align="center">A passionate full stack developer from Sydney,Australia</h3>
+<h2 align="center">MONGOOSE,EXPRESSJS,REACTJS,NODEJS</h2>
+<p align="left">Currently I'm learning Python.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipulprasai-official&label=Profile%20views&color=0e75b6&style=flat" alt="bipulprasai-official" /> </p>
 
