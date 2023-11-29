@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipul Prasai</h1>
 <h3 align="center">A passionate full stack developer from Sydney,Australia</h3>
-<h2 align="center">MONGOOSE,EXPRESSJS,REACTJS,NODEJS</h2>
+<h2 align="center">MONGOOSE,EXPRESSJS,REACTJS,NODEJS, AWS, DOCKER, JENKINES, KUBERNETES, ANSIBLE</h2>
 <p align="left">Currently I'm learning Python.</p>
 
 
